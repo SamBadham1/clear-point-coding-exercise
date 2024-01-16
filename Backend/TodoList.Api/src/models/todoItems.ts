@@ -5,6 +5,7 @@ export interface TodoItem extends BaseTodoItem {
 export interface BaseTodoItem {
   description: string;
   isCompleted: boolean;
+  dateAdded: Date
 }
 
 export interface TodoItems {

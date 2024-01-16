@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "@testing-library/vue": "^6.6.1",
+    "axios": "^1.6.5",
     "bootstrap": "^5.2.1",
+    "pinia": "^2.1.7",
     "vue": "^3.2.38"
   },
   "devDependencies": {
